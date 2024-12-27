@@ -2,7 +2,11 @@
 
 _This project was done in December 2024_
 
-### Project Summary: Scoreboard Embedded System  
+## Authors
+- Valerie Ackon(@leyrieee)
+- Emmanuel Nhyira Freduah-Agyemang(@Nhyira-EM)
+
+## Project Summary: Scoreboard Embedded System  
 
 In this project, we developed an advanced scoreboard embedded system using the STM32F091RC microcontroller, leveraging C programming, FreeRTOS, and assembly code. The system integrates multiple functionalities and components to deliver a versatile and interactive scoreboard.  
 
