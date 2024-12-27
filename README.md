@@ -2,6 +2,8 @@
 
 _This project was done in December 2024_
 
+Main project files are in the filepath: Embedded_Systems_Final_Project/Core/Src
+
 ## Authors
 - Valerie Ackon(@leyrieee)
 - Emmanuel Nhyira Freduah-Agyemang(@Nhyira-EM)
