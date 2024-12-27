@@ -41,5 +41,3 @@ In this project, we developed an advanced scoreboard embedded system using the S
 - **Interrupts and Timers**: Precise timing and responsiveness were achieved through the use of interrupts and timers.  
 - **Watchdog Timer**: Enhanced system reliability by resetting the system during unresponsive states.  
 - **Bluetooth and Ultrasonic Integration**: Added modern connectivity and functionality to improve user interaction and safety.  
-
-This project demonstrates a comprehensive understanding of embedded systems design and implementation, blending real-time operating systems, low-level programming, and hardware-software integration for a robust and feature-rich application.
